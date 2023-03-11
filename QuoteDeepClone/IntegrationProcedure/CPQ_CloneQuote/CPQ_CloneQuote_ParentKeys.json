@@ -1,0 +1,6 @@
+[
+    "DataRaptor/DRGetRootItemIdsForClone",
+    "DataRaptor/DRUpdateQuoteRecordType",
+    "DataRaptor/GetQuoteLineItemIds",
+    "IntegrationProcedure/CPQ_CloneSQToGC"
+]
